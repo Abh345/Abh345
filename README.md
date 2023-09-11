@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **abhikushal345@gmail.com**
 
-- 📄 Badges and certifications earned [📄 https://www.credly.com/users/abhishek-bhattacharya.f2e5df26/badges](📄 https://www.credly.com/users/abhishek-bhattacharya.f2e5df26/badges)
+- 📄 Badges and certifications earned (https://www.credly.com/users/abhishek-bhattacharya.f2e5df26/badges)
 
 - ⚽ Sports **I Love Football**
 
