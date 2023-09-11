@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Azure data engineering project](https://github.com/Abh345/AzureDataEngineering)
 
-- 📊 I’m currently learning **azure data engineering technologies like Azure data factory,Synapse,Logic apps,cosmosdB**
+- 📊 I’m currently learning and strengthening**azure data engineering technologies like Azure data factory,Synapse,Logic apps,Databricks,SQl**
 
 - 📈 I have worked on Data analysis projects [1.COVID-19 DATA ANALYSIS Reporting and Dashboarding Des.-Technology and methods used : Power query , Excel , Python scripting ,Google Collab . Analyzed tables and relations , Design an interactive Dashboard that can be Effectively Used for data analysis and Visualization](https://drive.google.com/drive/folders/1O7jrdu4m7AhSSYhBtekvMI7igDxWHev6)
 
