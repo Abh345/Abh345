@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Azure data engineering project](https://github.com/Abh345/AzureDataEngineering)
 
-- 📊 I’m currently learning and strengthening**azure data engineering technologies like Azure data factory,Synapse,Logic apps,Databricks,SQl**
+- 📊 I’m currently learning and strengthening**azure data engineering technologies like Azure data factory,Synapse,pyspark,Databricks,SQl**
 
 - 📈 I have worked on Data analysis projects [1.COVID-19 DATA ANALYSIS Reporting and Dashboarding Des.-Technology and methods used : Power query , Excel , Python scripting ,Google Collab . Analyzed tables and relations , Design an interactive Dashboard that can be Effectively Used for data analysis and Visualization](https://drive.google.com/drive/folders/1O7jrdu4m7AhSSYhBtekvMI7igDxWHev6)
 
@@ -11,9 +11,9 @@
 
 - 👨‍💻 my Exploratory data analysis mini project: [https://colab.research.google.com/drive/15IZCVW2SP3tUqqReUd-1tlM9Rq00_Hxx?usp=sharing. 2-BI Dashboarding -https://drive.google.com/drive/folders/1O7jrdu4m7AhSSYhBtekvMI7igDxWHev6](https://colab.research.google.com/drive/15IZCVW2SP3tUqqReUd-1tlM9Rq00_Hxx?usp=sharing. 2-BI Dashboarding -https://drive.google.com/drive/folders/1O7jrdu4m7AhSSYhBtekvMI7igDxWHev6)
 
-- 📝 I am certified on AZ900,AZ104,PL300 [Currently preparing for DP203](Currently preparing for DP203)
+- 📝 I am certified on AZ900,AZ104,PL300 [Currently preparing for DP203]
 
-- 💬 Ask me about **Python,Azure,Mysql,Databricks,Power BI,Excel**
+- 💬 Ask me about **Python,Azure,Mysql,Sql,Databricks,Power BI,Excel,Azure datafactory,Azure synapse**
 
 - 📫 How to reach me **abhikushal345@gmail.com**
 
