@@ -3,14 +3,13 @@
 
 - 🔭 I’m currently working on [Azure data engineering project](https://github.com/Abh345/AzureDataEngineering)
 
-- 📊 I’m currently learning and strengthening**azure data engineering technologies like Azure data factory,Synapse,pyspark,Databricks,SQl**
+- 📊 I’m currently learning and strengthening **azure data engineering technologies like Azure data factory,Synapse,pyspark,Databricks,SQl**
 
 - 📈 I have worked on Data analysis projects [1.COVID-19 DATA ANALYSIS Reporting and Dashboarding Des.-Technology and methods used : Power query , Excel , Python scripting ,Google Collab . Analyzed tables and relations , Design an interactive Dashboard that can be Effectively Used for data analysis and Visualization](https://drive.google.com/drive/folders/1O7jrdu4m7AhSSYhBtekvMI7igDxWHev6)
 
 - 💹 Also worked on [2.SALES INSIGHTS DATA ANALYSIS Of Atliq comp. Description.-SALES INSIGHTS DATA ANALYSIS](https://drive.google.com/drive/folders/1O7jrdu4m7AhSSYhBtekvMI7igDxWHev6)
 
-- 👨‍💻 my Exploratory data analysis mini project: [https://colab.research.google.com/drive/15IZCVW2SP3tUqqReUd-1tlM9Rq00_Hxx?usp=sharing. 2-BI Dashboarding -https://drive.google.com/drive/folders/1O7jrdu4m7AhSSYhBtekvMI7igDxWHev6](https://colab.research.google.com/drive/15IZCVW2SP3tUqqReUd-1tlM9Rq00_Hxx?usp=sharing. 2-BI Dashboarding -https://drive.google.com/drive/folders/1O7jrdu4m7AhSSYhBtekvMI7igDxWHev6)
-
+- 👨‍💻 my Exploratory data analysis mini project: [https://colab.research.google.com/drive/15IZCVW2SP3tUqqReUd-1tlM9Rq00_Hxx?usp=sharing. 2-BI Dashboarding -https://drive.google.com/drive/folders/1O7jrdu4m7AhSSYhBtekvMI7igDxWHev6].
 - 📝 I am certified on AZ900,AZ104,PL300 [Currently preparing for DP203]
 
 - 💬 Ask me about **Python,Azure,Mysql,Sql,Databricks,Power BI,Excel,Azure datafactory,Azure synapse**
@@ -24,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhishekkushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishekkushal" height="30" width="40" /></a>
+<a href="https://leetcode.com/abhikushal345/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishekkushal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
