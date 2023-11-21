@@ -9,7 +9,8 @@
 
 - 💹 Also worked on [2.SALES INSIGHTS DATA ANALYSIS Of Atliq comp. Description.-SALES INSIGHTS DATA ANALYSIS](https://drive.google.com/drive/folders/1O7jrdu4m7AhSSYhBtekvMI7igDxWHev6)
 
-- 👨‍💻 my Exploratory data analysis mini project: [https://colab.research.google.com/drive/15IZCVW2SP3tUqqReUd-1tlM9Rq00_Hxx?usp=sharing. 2-BI Dashboarding -https://drive.google.com/drive/folders/1O7jrdu4m7AhSSYhBtekvMI7igDxWHev6].
+- 👨‍💻 my Exploratory data analysis mini project: [https://colab.research.google.com/drive/15IZCVW2SP3tUqqReUd-1tlM9Rq00_Hxx?usp=sharing.
+BI Dashboards-https://drive.google.com/drive/folders/1O7jrdu4m7AhSSYhBtekvMI7igDxWHev6].
 - 📝 I am certified on AZ900,AZ104,PL300 [Currently preparing for DP203]
 
 - 💬 Ask me about **Python,Azure,Mysql,Sql,Databricks,Power BI,Excel,Azure datafactory,Azure synapse**
